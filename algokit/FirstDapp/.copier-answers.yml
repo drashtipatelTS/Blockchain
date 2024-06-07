@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.8
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: drashti.patel@thoughtspark.com
+author_name: drashtipatelTS
+contract_name: hello_worldts
+deployment_language: typescript
+preset_name: starter
+project_name: FirstDapp
+

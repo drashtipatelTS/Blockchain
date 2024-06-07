@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7524B140-1B51-4CA9-A4F3-59720F5AD032}|AlgorandTest\\AlgorandTest.csproj|f:\\blockchain\\tasks\\c# projects\\algorandtest\\algorandtest\\testnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524B140-1B51-4CA9-A4F3-59720F5AD032}|AlgorandTest\\AlgorandTest.csproj|solutionrelative:algorandtest\\testnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524B140-1B51-4CA9-A4F3-59720F5AD032}|AlgorandTest\\AlgorandTest.csproj|f:\\blockchain\\tasks\\c# projects\\algorandtest\\algorandtest\\contracts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524B140-1B51-4CA9-A4F3-59720F5AD032}|AlgorandTest\\AlgorandTest.csproj|solutionrelative:algorandtest\\contracts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524B140-1B51-4CA9-A4F3-59720F5AD032}|AlgorandTest\\AlgorandTest.csproj|f:\\blockchain\\tasks\\c# projects\\algorandtest\\algorandtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524B140-1B51-4CA9-A4F3-59720F5AD032}|AlgorandTest\\AlgorandTest.csproj|solutionrelative:algorandtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\AlgorandTest\\Contracts\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "AlgorandTest\\Contracts\\HelloWorld.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\AlgorandTest\\Contracts\\HelloWorld.cs",
+              "RelativeToolTip": "AlgorandTest\\Contracts\\HelloWorld.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:48:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testnet.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\AlgorandTest\\Testnet.cs",
+              "RelativeDocumentMoniker": "AlgorandTest\\Testnet.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\AlgorandTest\\Testnet.cs",
+              "RelativeToolTip": "AlgorandTest\\Testnet.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:52:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\AlgorandTest\\Program.cs",
+              "RelativeDocumentMoniker": "AlgorandTest\\Program.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\AlgorandTest\\AlgorandTest\\Program.cs",
+              "RelativeToolTip": "AlgorandTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:59:51.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

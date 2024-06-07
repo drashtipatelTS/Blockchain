@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|f:\\blockchain\\tasks\\c# projects\\classes\\classes\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|solutionrelative:classes\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|f:\\blockchain\\tasks\\c# projects\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|f:\\blockchain\\tasks\\c# projects\\classes\\classes\\accessmodifiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|solutionrelative:classes\\accessmodifiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|f:\\blockchain\\tasks\\c# projects\\classes\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|solutionrelative:classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|f:\\blockchain\\tasks\\c# projects\\classes\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|f:\\blockchain\\tasks\\c# projects\\classes\\classes\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFAFE0-CFF2-4313-896A-169D44416C73}|Classes\\Classes.csproj|solutionrelative:classes\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessModifiers.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\AccessModifiers.cs",
+              "RelativeDocumentMoniker": "Classes\\AccessModifiers.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\AccessModifiers.cs",
+              "RelativeToolTip": "Classes\\AccessModifiers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:41:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Structure.cs",
+              "RelativeDocumentMoniker": "Classes\\Structure.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Structure.cs",
+              "RelativeToolTip": "Classes\\Structure.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:50:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Point.cs",
+              "RelativeDocumentMoniker": "Classes\\Point.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Point.cs",
+              "RelativeToolTip": "Classes\\Point.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:19:12.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Customer.cs",
+              "RelativeDocumentMoniker": "Classes\\Customer.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Customer.cs",
+              "RelativeToolTip": "Classes\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:38:30.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Orders.cs",
+              "RelativeDocumentMoniker": "Classes\\Orders.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Orders.cs",
+              "RelativeToolTip": "Classes\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:37:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "F:\\Blockchain\\Tasks\\C# Projects\\Classes\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:07:35.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

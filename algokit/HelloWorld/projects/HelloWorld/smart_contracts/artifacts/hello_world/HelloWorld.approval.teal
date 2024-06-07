@@ -1,0 +1,108 @@
+#pragma version 10
+
+smart_contracts.hello_world.contract.HelloWorld.approval_program:
+    // smart_contracts/hello_world/contract.py:4
+    // class HelloWorld(ARC4Contract):
+    txn NumAppArgs
+    bz main_bare_routing@6
+    method "hello(string)string"
+    method "addition(uint64,uint64)uint64"
+    txna ApplicationArgs 0
+    match main_hello_route@2 main_addition_route@3
+    err // reject transaction
+
+main_hello_route@2:
+    // smart_contracts/hello_world/contract.py:5
+    // @arc4.abimethod()
+    txn OnCompletion
+    !
+    assert // OnCompletion is NoOp
+    txn ApplicationID
+    assert // is not creating
+    // smart_contracts/hello_world/contract.py:4
+    // class HelloWorld(ARC4Contract):
+    txna ApplicationArgs 1
+    // smart_contracts/hello_world/contract.py:5
+    // @arc4.abimethod()
+    callsub hello
+    byte 0x151f7c75
+    swap
+    concat
+    log
+    int 1
+    return
+
+main_addition_route@3:
+    // smart_contracts/hello_world/contract.py:9
+    // @arc4.abimethod()
+    txn OnCompletion
+    !
+    assert // OnCompletion is NoOp
+    txn ApplicationID
+    assert // is not creating
+    // smart_contracts/hello_world/contract.py:4
+    // class HelloWorld(ARC4Contract):
+    txna ApplicationArgs 1
+    btoi
+    txna ApplicationArgs 2
+    btoi
+    // smart_contracts/hello_world/contract.py:9
+    // @arc4.abimethod()
+    callsub addition
+    itob
+    byte 0x151f7c75
+    swap
+    concat
+    log
+    int 1
+    return
+
+main_bare_routing@6:
+    // smart_contracts/hello_world/contract.py:4
+    // class HelloWorld(ARC4Contract):
+    txn OnCompletion
+    !
+    assert // reject transaction
+    txn ApplicationID
+    !
+    assert // is creating
+    int 1
+    return
+
+
+// smart_contracts.hello_world.contract.HelloWorld.hello(name: bytes) -> bytes:
+hello:
+    // smart_contracts/hello_world/contract.py:5-6
+    // @arc4.abimethod()
+    // def hello(self, name: arc4.String) -> arc4.String:
+    proto 1 1
+    // smart_contracts/hello_world/contract.py:7
+    // return "Hello, " + name
+    frame_dig -1
+    extract 2 0
+    byte "Hello, "
+    swap
+    concat
+    dup
+    len
+    itob
+    extract 6 0
+    swap
+    concat
+    retsub
+
+
+// smart_contracts.hello_world.contract.HelloWorld.addition(a: uint64, b: uint64) -> uint64:
+addition:
+    // smart_contracts/hello_world/contract.py:9-10
+    // @arc4.abimethod()
+    // def addition(self, a:UInt64, b:UInt64) -> UInt64:
+    proto 2 1
+    // smart_contracts/hello_world/contract.py:11
+    // total = a+b
+    frame_dig -2
+    frame_dig -1
+    +
+    // smart_contracts/hello_world/contract.py:12
+    // return total
+    retsub

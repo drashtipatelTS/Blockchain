@@ -1,0 +1,14 @@
+is_global = true
+build_property.OptimisersLocation = C:\Users\frank\source\repos\AlgoStudio\TemplateProjects\Algorand Console Template For Sandbox\Algorand Console Template For Sandbox\Optimisers\
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AlgorandTestnet
+build_property.ProjectDir = F:\Blockchain\Tasks\C# Projects\AlgorandTestnet\AlgorandTestnet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

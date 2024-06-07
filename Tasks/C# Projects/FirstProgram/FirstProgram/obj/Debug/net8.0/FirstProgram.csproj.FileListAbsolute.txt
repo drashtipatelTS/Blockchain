@@ -1,0 +1,15 @@
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.exe
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.deps.json
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.runtimeconfig.json
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.dll
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.pdb
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfoInputs.cache
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfo.cs
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.csproj.CoreCompileInputs.cache
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.sourcelink.json
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.dll
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\refint\FirstProgram.dll
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.pdb
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.genruntimeconfig.cache
+F:\Blockchain\Tasks\C# Projects\FirstProgram\FirstProgram\obj\Debug\net8.0\ref\FirstProgram.dll
